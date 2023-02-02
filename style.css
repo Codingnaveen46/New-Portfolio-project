@@ -132,6 +132,9 @@ input{
     width: 300px;
 }
 
+img{
+    border-radius: 50%;
+}
 footer{
     font-weight: 600;
     display: flex;
