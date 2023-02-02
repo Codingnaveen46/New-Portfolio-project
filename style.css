@@ -150,3 +150,7 @@ footer ul{
 footer ul li i:hover{
     color: rgb(37, 20, 220);
 }
+
+i{
+    font-size: 35px;
+}
